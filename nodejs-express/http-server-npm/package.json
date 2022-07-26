@@ -1,0 +1,15 @@
+{
+  "name": "server-npm",
+  "version": "1.0.0",
+  "description": "project ppl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server-ppl" : "nodemon index"
+  },
+  "author": "ardin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
